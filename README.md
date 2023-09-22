@@ -22,7 +22,7 @@ Project of Java Foundations using Lists manipulation using CRUD actions (Creat, 
 
 ## ▶️ Usage/Example
 
-1. User: executes in terminal `java -jar java-crud.jar` 
+1. User: executes in terminal `java -jar management-people-list.jar` 
 
 2. Application: asks, on the CLI (terminal), for name inputs. 
 
@@ -52,13 +52,15 @@ Important: The description for the behaviors below are for guidance only. You ca
 Clone the project's repository 
 
 ```bash
-  git clone git@github.com:fran-olv/java-crud.git
+  git clone git@github.com:fran-olv/management-people-list
+
 ```
 
 Use the terminal to go file repository 
 
 ```bash
-  cd java-crud
+  cd management-people-list
+
 ```
 
 Install the dependencies
@@ -70,7 +72,7 @@ Install the dependencies
 
 Run the application 
 ```bash
-java -jar java-crud.jar
+java -jar management-people-list.jar
 ```
 
 
