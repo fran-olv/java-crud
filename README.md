@@ -1,4 +1,4 @@
-# Managment People Set ☕
+# Management People Set ☕
 Project of Java Foundations using Lists manipulation using CRUD actions (Creat, Read, Update and Delete), user interaction with input/output APIs, string manipulation, differences between list types in Java. 
 
 ### ✔️ What this application do: 
