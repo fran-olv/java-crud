@@ -113,7 +113,7 @@ differences between list types in Java
 
 2. IDE Familiarization: 
 I tryed three famous: VScode, Eclipse, IntelliJ. 
-Then chosen was:  
+The chosen one for these project was: IntelliJ 
 
 3. Maven: 
 What's? Used for? 
