@@ -1,4 +1,4 @@
-# Management People Set ☕
+# Management People Project ☕
 Project of Java Foundations using Lists manipulation using CRUD actions (Creat, Read, Update and Delete), user interaction with input/output APIs, string manipulation, differences between list types in Java. 
 
 ### ✔️ What this application do: 
@@ -22,7 +22,7 @@ Project of Java Foundations using Lists manipulation using CRUD actions (Creat, 
 
 ## ▶️ Usage/Example
 
-1. User: executes in terminal `java -jar management-people-list.jar` 
+1. User: executes in terminal `java -jar management-people-project.jar` 
 
 2. Application: asks, on the CLI (terminal), for name inputs. 
 
@@ -52,14 +52,14 @@ Important: The description for the behaviors below are for guidance only. You ca
 Clone the project's repository 
 
 ```bash
-  git clone git@github.com:fran-olv/management-people-list
+  git clone git@github.com:fran-olv/management-people-project
 
 ```
 
 Use the terminal to go file repository 
 
 ```bash
-  cd management-people-list
+  cd management-people-project
 
 ```
 
@@ -72,7 +72,7 @@ Install the dependencies
 
 Run the application 
 ```bash
-java -jar management-people-list.jar
+java -jar management-people-project.jar
 ```
 
 
